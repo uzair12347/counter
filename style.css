@@ -1,0 +1,25 @@
+.counter{
+    display: grid;
+    justify-content: center;
+    text-align: center;
+    height: 50vh;
+}
+
+h1{
+    font-size: xx-large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    border-radius: 5px;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color: black;
+    color: whitesmoke;
+}
+
+body{
+    background-color: wheat;
+}
